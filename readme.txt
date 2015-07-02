@@ -1,0 +1,2 @@
+A notebook of models to predict user activity from accelerometer data.  A read me on the data set can be found in DataFiles.
+Running the script makeSensorDatabase.py will read the csv data files into a sql db which is used in the ipython notebook analysis.
